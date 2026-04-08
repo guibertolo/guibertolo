@@ -59,3 +59,4 @@ Trabalho por projeto (escopo fechado), por sprint (2 semanas) ou consultoria (ar
   <img src="https://github-readme-stats.vercel.app/api?username=guibertolo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
 
+<!-- profile -->
