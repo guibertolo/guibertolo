@@ -53,7 +53,7 @@ CLAUDE.md bem escrito + stories detalhadas + quality gates automáticos
 Aberto a oportunidades como **AI Engineer**, **Full-Stack Developer** ou **Tech Lead**.
 Trabalho por projeto (escopo fechado), por sprint (2 semanas) ou consultoria (arquitetura e code review).
 
----
+----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guibertolo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
